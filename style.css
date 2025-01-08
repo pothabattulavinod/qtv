@@ -73,7 +73,7 @@ video {
 /* Watermark styling */
 #watermark {
     position: absolute;
-    left: 0; /* 0% from the left side */
+    left: 5%; /* 0% from the left side */
     top: 50%;
     transform: translateY(-50%);
     font-size: 12px; /* Smaller text size */
