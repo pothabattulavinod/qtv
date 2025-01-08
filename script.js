@@ -26,7 +26,7 @@ const streams = [
         endTime: new Date().setHours(17, 0, 0, 0)
     },
     {
-        url: 'https://example.com/evening_show.mp4',
+        url: 'https://ia600406.us.archive.org/11/items/aanum-pennum-2021-malayalam-1080p-z-flix-co/42%20-%20South%20Indian%20-%202021/Tuck%20Jagadish%20%282021%29%20Telugu%201080p_%20zFlix%20CO.mp4',
         title: '5PM to 8PM Show',
         startTime: new Date().setHours(17, 0, 0, 0),
         endTime: new Date().setHours(20, 0, 0, 0)
